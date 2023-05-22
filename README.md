@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Meshach
 - 👀 I’m interested in Code & Design
-- 🌱 I’m currently learning Flutter, Web Development and Graphic Design
+- 🌱 I’m currently learning Sveltekit, Rust.
 - 💞️ I’m looking to collaborate on Web Design, and App Development
 - 📫 How to reach me meshach.solutions@gmail.com 
 
